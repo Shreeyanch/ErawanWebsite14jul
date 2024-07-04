@@ -21,7 +21,9 @@ export default function MyApp(props) {
   return (
     <Fragment>
       <Head>
-        <title>ErawanWebsitee</title>
+        <title>ErawanMuayThai</title>
+        <link rel="shortcut icon" href="logo.png" />
+
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
