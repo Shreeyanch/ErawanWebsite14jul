@@ -46,7 +46,7 @@ const Footer = ({ className = "" }) => {
         <div className={styles.fitnessDisciplineHardworkContainer}>
           <p className={styles.fitness}>FITNESS</p>
           <p className={styles.fitness}>DISCIPLINE</p>
-          <p className={styles.fitness}>Hardwork</p>
+          <p className={styles.fitness}>HARDWORK</p>
           <p className={styles.fitness}>CONSISTENCY</p>
         </div>
         <div className={styles.copyright}>© 2024 — Copyright</div>
