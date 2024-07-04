@@ -1,0 +1,11 @@
+.enrollform {
+  width: 100%;
+  position: relative;
+  background-color: #0b0101;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  mix-blend-mode: normal;
+}
