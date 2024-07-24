@@ -18,7 +18,7 @@ const Pricing = ({ className = "" }) => {
             <img className={styles.vectorIcon} alt="" src="/vector1.svg" />
             <div className={styles.monthlyFeeRs5000Container}>
               <p className={styles.monthlyFee}>Monthly fee</p>
-              <p className={styles.monthlyFee}>Rs.5000/-</p>
+              <p className={styles.monthlyFee}>Rs.5,000/-</p>
             </div>
           </div>
           <div className={styles.points1}>
@@ -34,7 +34,7 @@ const Pricing = ({ className = "" }) => {
             <div className={styles.monthlyFeeRs5000Container}>
               <p className={styles.monthlyFee}>6 Month</p>
               <p className={styles.discount}>(25% Discount)</p>
-              <p className={styles.monthlyFee}>Rs.12,750/-</p>
+              <p className={styles.monthlyFee}>Rs.22,500/-</p>
             </div>
           </div>
           <div className={styles.points2}>
@@ -54,7 +54,7 @@ const Pricing = ({ className = "" }) => {
             <img className={styles.vectorIcon} alt="" src="/vector1.svg" />
             <div className={styles.monthlyFeeRs5000Container}>
               <p className={styles.monthlyFee}>Monthly fee</p>
-              <p className={styles.monthlyFee}>Rs.5000/-</p>
+              <p className={styles.monthlyFee}>Rs.6,500/-</p>
             </div>
           </div>
           <div className={styles.points5}>
@@ -97,7 +97,7 @@ const Pricing = ({ className = "" }) => {
             <img className={styles.vectorIcon} alt="" src="/vector1.svg" />
             <div className={styles.monthlyFeeRs5000Container}>
               <p className={styles.monthlyFee}>7 Days</p>
-              <p className={styles.monthlyFee}>Rs.21,000/-</p>
+              <p className={styles.monthlyFee}>Rs.2,100/-</p>
             </div>
           </div>
           <div className={styles.points2}>
