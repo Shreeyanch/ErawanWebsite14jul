@@ -18,7 +18,7 @@ const TutorialImageGroup = ({ className = "" }) => {
       </div>
       <div className={styles.tutorial2}>
         <img className={styles.trainer3Child} alt="" src="/group-147@2x.png" />
-        <div className={styles.kanchanRai}>{`Kosang Rai `}</div>
+        <div className={styles.kanchanRai}>{`Kosan Rai `}</div>
         <div className={styles.professionalMuayThaiContainer1}>
           <p className={styles.professionalMuayThai}>
             Professional Muay Thai Athelete

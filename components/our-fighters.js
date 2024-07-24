@@ -9,7 +9,7 @@ const OurFighters = ({ className = "" }) => {
       <div className={styles.title} />
       <div className={styles.exercisecards}>
         <Fighter1
-          imageBarun="/cardimageraju@2x.png"
+          imageBarun="/heroimage@2x.png"
           title="Raju Rai "
           threeTimesNationalChampio="Three times national champion "
           wBCMuayThaiNationalChampi="WBC Muay Thai national champion "
@@ -29,7 +29,7 @@ const OurFighters = ({ className = "" }) => {
           title="Karishma karki"
           weightDivisionFlyWeight="Weight division - fly weight "
           wBCMuayThaiNationalChampi="WBC Muay Thai national champion "
-          fightRecord20="Fight record  2 - 0 "
+          fightRecord20="Fight record  4 - 0 "
         />
         <Fighter
           cardImageRajina="/CardImageRajina.png"

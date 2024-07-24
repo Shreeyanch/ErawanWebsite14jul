@@ -165,7 +165,7 @@ const ErawanHome = () => {
                 <div className={styles.kosangRaiProfessionalContainer}>
                   <p className={styles.kosangRai}>
                     <span className={styles.kosangRai1}>
-                      <span className={styles.kosangRai2}>Kosang Rai</span>
+                      <span className={styles.kosangRai2}>Kosan Rai</span>
                     </span>
                   </p>
                   <p className={styles.blankLine}>
@@ -185,7 +185,7 @@ const ErawanHome = () => {
                 <img
                   className={styles.tutorial2Child}
                   alt=""
-                  src="/group-146@2x.png"
+                  src="/group-142@2x.png"
                 />
                 <div className={styles.kanchanRaiProfessionalMuayWrapper}>
                   <div className={styles.kanchanRaiProfessionalContainer}>
@@ -212,7 +212,7 @@ const ErawanHome = () => {
                 <img
                   className={styles.tutorial1Child}
                   alt=""
-                  src="/group-142@2x.png"
+                  src="/group-146@2x.png"
                 />
                 <div className={styles.rajuRaiWbcMuayThaiNationaWrapper}>
                   <div className={styles.kanchanRaiProfessionalContainer}>
