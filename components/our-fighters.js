@@ -9,7 +9,7 @@ const OurFighters = ({ className = "" }) => {
       <div className={styles.title} />
       <div className={styles.exercisecards}>
         <Fighter1
-          imageBarun="/heroimage@2x.png"
+          imageBarun="/RajuRaiPic.png"
           title="Raju Rai "
           threeTimesNationalChampio="Three times national champion "
           wBCMuayThaiNationalChampi="WBC Muay Thai national champion "
