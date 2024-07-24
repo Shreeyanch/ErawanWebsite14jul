@@ -50,6 +50,8 @@ const Footer = ({ className = "" }) => {
           <p className={styles.fitness}>CONSISTENCY</p>
         </div>
         <div className={styles.copyright}>© 2024 — Copyright</div>
+        
+        
       </div>
       <div className={styles.footerdescription}>
         <div className={styles.contactsParent}>
@@ -90,6 +92,9 @@ const Footer = ({ className = "" }) => {
               <div className={styles.whatsapp}>Facebook</div>
             </button>
           </div>
+          <p className={styles.copyright}> Developed by <a href="https://www.samparka.info" target="_blank"> <img src="/samparkalogo.png" alt="Samparka Logo" className={styles.logo} />
+  </a>.
+</p>        
         </div>
       </div>
     </footer>

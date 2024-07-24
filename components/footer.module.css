@@ -5,6 +5,11 @@
   object-fit: cover;
   cursor: pointer;
 }
+.logo {
+  width: 100px;
+  margin-left: 5px;
+  margin-bottom: -5px;
+}
 .fitness {
   margin: 0;
 }
@@ -17,7 +22,7 @@
 .copyright {
   position: relative;
   font-size: var(--font-size-xs);
-  line-height: 130%;
+  line-height: 100%;
   font-family: var(--font-inter);
   opacity: 0.4;
 }
