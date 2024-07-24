@@ -32,7 +32,7 @@ const OurFighters = ({ className = "" }) => {
           fightRecord20="Fight record  2 - 0 "
         />
         <Fighter
-          cardImageRajina="/cardimagerajina@2x.png"
+          cardImageRajina="/CardImageRajina.png"
           title="Rajina Bista "
           weightDivisionFlyWeight="Super fly weight division "
           wBCMuayThaiNationalChampi="WBC Muay Thai gold medalist"
