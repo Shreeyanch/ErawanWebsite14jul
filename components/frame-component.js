@@ -9,7 +9,7 @@ const FrameComponent = ({ className = "", onClose }) => {
       <img
         className={styles.whatsappImage20240527At1}
         alt=""
-        src="/whatsapp-image-20240527-at-1434-1@2x.png"
+        src="/schedule.png"
       />
     </div>
   );

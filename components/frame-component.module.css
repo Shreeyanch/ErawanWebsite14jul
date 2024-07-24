@@ -1,10 +1,10 @@
 .whatsappImage20240527At1 {
   position: absolute;
   top: calc(50% - 381px);
-  left: calc(50% - 375.5px);
+  /* left: calc(50% - 375.5px); */
   width: 751px;
-  height: 762px;
-  object-fit: cover;
+  height: 862px;
+  object-fit: fill;
 }
 .whatsappImage20240527At1Parent {
   width: 751px;

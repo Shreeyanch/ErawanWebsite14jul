@@ -10,6 +10,7 @@ import FeedbackDemo from "../components/feedback-demo";
 import TutorialImageGroup from "../components/tutorial-image-group";
 import Footer from "../components/footer";
 import styles from "./index.module.css";
+import Pricing from "../components/pricing";
 
 const ErawanHome = () => {
   const [isMUAYPopupOpen, setMUAYPopupOpen] = useState(false);
@@ -240,6 +241,8 @@ const ErawanHome = () => {
             </div>
           </div>
         </div>
+        <Pricing/>
+
         <Footer />
       </div>
       {isMUAYPopupOpen && (

@@ -53,8 +53,7 @@ const Form = ({ className }) => {
         <div className={styles.formTitle}>Get in Touch</div>
       </div>
       <div className={styles.sendUsA}>
-        Send us a message about the product you're interested in, and we'll
-        respond promptly.
+        Send us a message.
       </div>
       <form className={styles.form} onSubmit={handleSubmit}>
         

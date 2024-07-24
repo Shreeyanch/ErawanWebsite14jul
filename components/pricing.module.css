@@ -1,0 +1,317 @@
+
+.trainingPackages {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  font-weight: 600;
+}
+.trainingPackagesWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 100px;
+}
+.forFemaleAnd {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  font-weight: 500;
+}
+.forFemaleAndUnder12YearsWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 26px;
+  color: #fff;
+}
+.vectorIcon {
+  width: 28px;
+  position: relative;
+  height: 20.3px;
+}
+.monthlyFee {
+  margin: 0;
+}
+.monthlyFeeRs5000Container {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 26.25px;
+}
+.points {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.vectorIcon1 {
+  width: 28px;
+  position: relative;
+  height: 20.3px;
+}
+.discount {
+  margin: 0;
+  font-size: 11px;
+}
+.month15DiscountContainer {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 26.25px;
+}
+.points1,
+.points2,
+.with {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.points1,
+.points2 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 17px;
+}
+.with {
+  flex: 1;
+  border-radius: 10px;
+  background-color: #303030;
+  flex-direction: column;
+  padding: 50px 71px;
+  gap: 30.8px;
+}
+.regularPackageWrapper {
+  align-self: stretch;
+  flex-direction: column;
+  text-align: center;
+  font-size: 33px;
+  color: #fff;
+}
+.points5,
+.regularPackageWrapper,
+.with1,
+.with2 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.points5 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 17px;
+}
+.with1,
+.with2 {
+  flex: 1;
+  border-radius: 10px;
+  background-color: #efa082;
+  flex-direction: column;
+  padding: 50px 71px;
+  gap: 30.8px;
+}
+.with2 {
+  background-color: #188759;
+}
+.personalTraining {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  font-weight: 500;
+}
+.with3 {
+  flex: 1;
+  border-radius: 10px;
+  background-color: #303030;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 50px 71px;
+  gap: 30.8px;
+}
+.loyaltypricing,
+.loyaltypricingframe {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 100px;
+  gap: 63px;
+  font-size: 17px;
+  color: #ffeeee;
+}
+.loyaltypricing {
+  flex-direction: column;
+  align-items: center;
+  padding: 150px 10px;
+  gap: 46px;
+  text-align: left;
+  font-size: 51px;
+  color: #fff;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1440px) {
+  .loyaltypricing {
+    display: flex;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .forFemaleAnd,
+  .trainingPackages {
+    font-size: 30px;
+  }
+  .with,
+  .with1,
+  .with2 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .personalTraining {
+    font-size: 30px;
+  }
+  .with3 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .loyaltypricingframe {
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .loyaltypricing,
+  .loyaltypricingframe {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 768px) {
+  .forFemaleAnd,
+  .trainingPackages {
+    font-size: 30px;
+  }
+  .month15DiscountContainer,
+  .monthlyFeeRs5000Container {
+    font-size: 14px;
+  }
+  .personalTraining {
+    font-size: 30px;
+  }
+  .loyaltypricing {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 428px) {
+  .trainingPackages {
+    font-size: 41px;
+    text-align: center;
+  }
+  .trainingPackagesWrapper {
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .forFemaleAnd {
+    font-weight: 200;
+    font-family: Poppins;
+    font-size: 25px;
+  }
+  .forFemaleAndUnder12YearsWrapper {
+    padding-left: 71px;
+    padding-right: 71px;
+    box-sizing: border-box;
+  }
+  .monthlyFeeRs5000Container {
+    font-size: 12px;
+  }
+  .points {
+    align-self: stretch;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    padding-left: 120px;
+    box-sizing: border-box;
+  }
+  .month15DiscountContainer {
+    font-size: 12px;
+    text-align: left;
+  }
+  .points1 {
+    align-items: center;
+    justify-content: center;
+    padding-left: 120px;
+    padding-right: 0;
+  }
+  .points1,
+  .points2,
+  .with {
+    box-sizing: border-box;
+  }
+  .points2 {
+    padding-left: 120px;
+  }
+  .with {
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 0;
+    padding-right: 0;
+    flex: unset;
+    align-self: stretch;
+  }
+  .regularPackageWrapper {
+    padding-left: 71px;
+    padding-right: 71px;
+    box-sizing: border-box;
+  }
+  .points5,
+  .with1,
+  .with2 {
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .points5 {
+    padding-left: 120px;
+  }
+  .with1,
+  .with2 {
+    padding-left: 0;
+    flex: unset;
+    align-self: stretch;
+  }
+  .personalTraining {
+    font-weight: 200;
+    font-family: Poppins;
+    font-size: 25px;
+  }
+  .with3 {
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+    flex: unset;
+    align-self: stretch;
+  }
+  .loyaltypricingframe {
+    flex-direction: column;
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .loyaltypricing {
+    gap: 71px;
+    padding-left: 20px;
+    padding-top: 71px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}
