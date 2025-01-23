@@ -14,7 +14,7 @@ const OurFighters = ({ className = "" }) => {
           threeTimesNationalChampio="Three times national champion "
           wBCMuayThaiNationalChampi="WBC Muay Thai national champion "
           yearsOfExperienceInMuayTh="14 years of experience in Muay Thai "
-          fightRecords62="Fight records 6 - 2"
+          fightRecords62="Fight records 17 - 2"
         />
         <Fighter1
           imageBarun="/imagebarun@2x.png"

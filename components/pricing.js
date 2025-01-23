@@ -119,21 +119,21 @@ const Pricing = ({ className = "" }) => {
             <img className={styles.vectorIcon} alt="" src="/vector1.svg" />
             <div className={styles.monthlyFeeRs5000Container}>
               <p className={styles.monthlyFee}>1 Session</p>
-              <p className={styles.monthlyFee}>Rs.1,500/-</p>
+              <p className={styles.monthlyFee}>Rs.2,000/-</p>
             </div>
           </div>
           <div className={styles.points2}>
             <img className={styles.vectorIcon} alt="" src="/vector1.svg" />
             <div className={styles.monthlyFeeRs5000Container}>
               <p className={styles.monthlyFee}>7 Days</p>
-              <p className={styles.monthlyFee}>Rs.9,800/-</p>
+              <p className={styles.monthlyFee}>Rs.10,500/-</p>
             </div>
           </div>
           <div className={styles.points2}>
             <img className={styles.vectorIcon} alt="" src="/vector1.svg" />
             <div className={styles.monthlyFeeRs5000Container}>
               <p className={styles.monthlyFee}>14 Days</p>
-              <p className={styles.monthlyFee}>Rs.18,200/-</p>
+              <p className={styles.monthlyFee}>Rs.19,600/-</p>
             </div>
           </div>
         </div>
