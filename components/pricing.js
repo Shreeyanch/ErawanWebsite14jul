@@ -136,6 +136,13 @@ const Pricing = ({ className = "" }) => {
               <p className={styles.monthlyFee}>Rs.19,600/-</p>
             </div>
           </div>
+          <div className={styles.points2}>
+            <img className={styles.vectorIcon} alt="" src="/vector1.svg" />
+            <div className={styles.monthlyFeeRs5000Container}>
+              <p className={styles.monthlyFee}>Monthly-26 Days</p>
+              <p className={styles.monthlyFee}>Rs.35,100/-</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
